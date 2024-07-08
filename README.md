@@ -14,7 +14,7 @@ usage:
 
 or
 
-5- ./testIP.sh <IP>
+5- ./testIP.sh (IP)
 
 
 like:
