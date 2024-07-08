@@ -3,12 +3,19 @@ tests ip regionally and asks if CIDR/CIDRS or IP address should be blocked
 
 usage:
 
+
 1- sudo nano testIP.sh
+
 2- < copypaste the code >
+
 3- sudo chmod +x testIP.sh
+
 4- ./testIP.sh
+
 or
+
 5- ./testIP.sh <IP>
+
 
 like:
 
